@@ -4,7 +4,7 @@ My slider has the options:
 
 Example markup:
 
-<em>
+<code>
 <div class="slider tom-slider">
 	<div class="slides">
 		<div class="slide"></div>
@@ -16,7 +16,7 @@ Example markup:
 		<button class="arrowPrev"> < </button>
 	</div>
 </div>
-	</em>
+</code>
 
 You need selector of your slider </br>
 <strong>selector</strong>: string </br>
