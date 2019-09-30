@@ -1,6 +1,6 @@
 # tomkovich-s-slider
 
-My slider has the options:
+
 
 Example markup:
 
@@ -17,8 +17,30 @@ Example markup:
 	</div>
 </div>
 ```
+My slider has the options:
 
 You need selector of your slider </br>
 <strong>selector</strong>: string </br>
 <strong>default</strong>: '.tom-slider' </br>
+
+<strong>margin</strong>: string </br>
+<strong>default</strong>: '0px' </br>
+
+<strong>arrowPrev</strong>: string </br>
+<strong>default</strong>: '.arrowPrev' </br>
+
+<strong>arrowNext</strong>: string </br>
+<strong>default</strong>: '.arrowNext' </br>
+
+<strong>innerArrowNext</strong>: string </br>
+<strong>default</strong>: '>' </br>
+
+<strong>innerArrowPrev</strong>: string </br>
+<strong>default</strong>: '<' </br>
+
+<strong>slidesShow</strong>: number </br>
+<strong>default</strong>: 1 </br>
+
+<strong>autoplay</strong>: boolean </br>
+<strong>default</strong>: false </br>
 
