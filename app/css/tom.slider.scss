@@ -1,0 +1,60 @@
+body {
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+.tom-slide img{
+	max-width: 100%;
+	height: auto;
+}
+
+.tom-slider {
+	position: relative;
+	width: 100%;
+}
+
+.tom-slider .tom-slides {
+	margin: 0 auto;
+	display: flex;
+	position: relative;
+	width: 100%;
+	justify-content: space-between;
+	overflow: hidden;
+	transform: translateX(0%);
+}
+.tom-slider .tom-slide {
+	transition: all .3s ease;
+	opacity: 0;
+	transform: translateX(-100%);
+	max-width: 0;
+	overflow: hidden;
+	margin: 0;
+}
+.tom-slider .tom-slide.active {
+	transform: translateX(0%);
+	opacity: 1;
+	max-width: 100%;
+}
+
+.tom-navigation {
+	position: absolute;
+	top: 0%;
+	width: 100%;
+}
+
+.tom-navigation button {
+	cursor: pointer;
+	padding: 15px 20px;
+	background-color: #000;
+	color: #fff;
+	font-size: 25px;
+	outline: none;
+	border: none;
+	text-align: center;
+	min-height: 50px;
+	position: absolute;
+}
+.tom-navigation button.arrowNext {
+	right: 0;
+}
