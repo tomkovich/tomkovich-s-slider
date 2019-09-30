@@ -3,8 +3,8 @@
 My slider has the options:
 
 Example markup:
-<code>
-	
+
+
 <div class="slider tom-slider">
 	<div class="slides">
 		<div class="slide">
@@ -27,7 +27,7 @@ Example markup:
 		</button>
 	</div>
 </div>
-</code>
+
 
 You need selector of your slider </br>
 <strong>selector</strong>: string </br>
