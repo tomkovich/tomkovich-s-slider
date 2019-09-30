@@ -1,6 +1,7 @@
 # tomkovich-s-slider
 
 
+[Demo](http://mee.tomkovich-ya.ru/).
 
 Example markup:
 
