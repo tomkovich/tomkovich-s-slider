@@ -5,17 +5,7 @@ My slider has the options:
 Example markup:
 
 <code>
-<div class="slider tom-slider">
-	<div class="slides">
-		<div class="slide"></div>
-		<div class="slide"></div>
-		<div class="slide"></div>
-	</div>
-	<div class="tom-navigation">
-		<button class="arrowNext"> > </button>
-		<button class="arrowPrev"> < </button>
-	</div>
-</div>
+	<div></div>
 </code>
 
 You need selector of your slider </br>
