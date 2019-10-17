@@ -45,4 +45,21 @@ You need selector of your slider </br>
 <strong>autoplay</strong>: boolean </br>
 <strong>default</strong>: false </br>
 
+<strong>autoHeight</strong>: boolean </br>
+<strong>default</strong>: false </br>
+*This option sets the height of the slider based on the highest slide
+
+<strong>response</strong>: Object </br>
+<strong>default</strong>: empty Object </br>
+***Example response option:
+
+```response: {
+	992: {
+		slidesShow: 2
+	},
+	576: {
+		slidesShow: 1
+	}
+}```
+
 If you find a bug write to me - tomkovich.ya@yandex.by or yanaooppss@gmail.com
