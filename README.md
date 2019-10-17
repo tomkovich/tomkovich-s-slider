@@ -3,7 +3,7 @@
 
 [Demo](http://mee.tomkovich-ya.ru/).
 
-Example markup:
+### Example markup:
 
 ```
 <div class="slider tom-slider">
@@ -45,4 +45,4 @@ You need selector of your slider </br>
 <strong>autoplay</strong>: boolean </br>
 <strong>default</strong>: false </br>
 
-If you find a mistake write to me - tomkovich.ya@yandex.by or yanaooppss@gmail.com
+If you find a bug write to me - tomkovich.ya@yandex.by or yanaooppss@gmail.com
