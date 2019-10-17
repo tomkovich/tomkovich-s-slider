@@ -51,7 +51,8 @@ You need selector of your slider </br>
 
 <strong>response</strong>: Object </br>
 <strong>default</strong>: empty Object </br>
-***Example response option:
+
+###Example response option:
 
 ```response: {
 	992: {
